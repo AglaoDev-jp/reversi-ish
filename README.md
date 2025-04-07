@@ -5,7 +5,7 @@
   
 コード作成、テキスト作成、画像生成にChatGPTを使用しています。  
 このリポジトリでは、ゲームの**ソースコード**を公開しています。  
-ゲームファイル(実行ファイル)のダウンロードは[こちら]()  
+ゲームファイル(実行ファイル)のダウンロードは[こちら](https://github.com/AglaoDev-jp/reversi-ish/releases/download/v1.0/reversi-ish_v1.zip)  
 ゲームのあそびかたは[こちら](./README_GAME.md)  
 
 ---
@@ -244,10 +244,10 @@ PyInstallerはGPLライセンスですが、例外規定により`生成され�
 
 ### オプションの詳細説明
 
--**`--onefile`**: 単一の .exe ファイルにまとめます。
--**`--windowed`**: コンソールを表示しない。
--**`--icon=icon.ico`**: アプリのアイコンを設定します。
--**`--add-data "image.png;.`**: image.png を .exe と同じフォルダに配置するよう指示(--add-data "ファイル名;出力先")
+- **`--onefile`**: 単一の .exe ファイルにまとめます。
+- **`--windowed`**: コンソールを表示しない。
+- **`--icon=icon.ico`**: アプリのアイコンを設定します。
+- **`--add-data "image.png;.`**: image.png を .exe と同じフォルダに配置するよう指示(--add-data "ファイル名;出力先")
 
 
 ### 実行ファイルの確認
