@@ -5,7 +5,7 @@
   
 コード作成、テキスト（READMEなど）作成、画像生成に OpenAIの対話型AI「ChatGPT」を使用しています。  
 このリポジトリでは、ゲームの**ソースコード**を公開しています。  
-ゲームファイル(実行ファイル)のダウンロードは[こちら](https://github.com/AglaoDev-jp/reversi-ish/releases/download/v1.0/reversi-ish_v2.zip)  
+ゲームファイル(実行ファイル)のダウンロードは[こちら](https://github.com/AglaoDev-jp/reversi-ish/releases/download/v2.0/reversi-ish_v2.zip)  
 ゲームのあそびかたは[こちら](./README_GAME.md)  
 
 ---
